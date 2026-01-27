@@ -1,2 +1,3 @@
-# search-engine-and-favorites
-Exercise consisting of programming a search engine with a favorites counter
+# Proyecto con React
+
+Escribe la carta de presentación de tu proyecto.
